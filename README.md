@@ -42,3 +42,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 A copy of the license is available in the repository's [license.txt](https://github.com/Esri/arcgis-python-api/blob/master/license.txt) file.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Esri/arcgis-python-api/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Esri/arcgis-python-api/HEAD
